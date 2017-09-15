@@ -18,7 +18,7 @@ Stripe.card.createToken($form, stripeResponseHandler);
 
 } else {
 
-show_error("Failed to load credit card processing functionality. Please reload this page in your browser.")
+show_error("Failed to load credit card processing functionality. Please reload this page in your browser.");
 
 }
 
