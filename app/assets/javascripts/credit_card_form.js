@@ -58,7 +58,7 @@ show_error = function (message) {
 
 if($("#flash-messages").size() < 1){
 
-$('div.container.main div:first').prepend("<div id='flash-messages'></div>")
+$('div.container.main div:first').prepend("<div id='flash-messages'></div>");
 
 }
 
